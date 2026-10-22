@@ -1,0 +1,16 @@
+{
+  "credit": "Made with Blockbench",
+  "textures": {"particle": "elementalrealms:block/cooked_ancient_meat", "top": "elementalrealms:block/cooked_ancient_meat", "side": "elementalrealms:block/cooked_ancient_meat_side4"},
+  "elements": [{
+    "from": [0, 0, 0],
+    "to": [16, 4, 16],
+    "faces": {
+      "north": {"uv": [0, 0, 4, 16], "texture": "#side", "rotation": 270},
+      "east": {"uv": [0, 0, 4, 16], "texture": "#side", "rotation": 270},
+      "south": {"uv": [0, 0, 4, 16], "texture": "#side", "rotation": 270},
+      "west": {"uv": [0, 0, 4, 16], "texture": "#side", "rotation": 270},
+      "up": {"texture": "#top"},
+      "down": {"texture": "#top"}
+    }
+  }]
+}

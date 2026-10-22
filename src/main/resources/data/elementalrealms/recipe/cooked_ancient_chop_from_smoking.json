@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "elementalrealms:raw_ancient_chop"
+  },
+  "result": {
+    "id": "elementalrealms:cooked_ancient_chop",
+    "count": 1
+  },
+  "experience": 0.35,
+  "cookingtime": 100
+}

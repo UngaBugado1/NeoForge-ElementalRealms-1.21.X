@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "elementalrealms:golden_essence"
+    },
+    {
+      "item": "elementalrealms:cooked_ancient_chop"
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "elementalrealms:mosshroom_cap"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "elementalrealms:ancient_stew"
+  }
+}

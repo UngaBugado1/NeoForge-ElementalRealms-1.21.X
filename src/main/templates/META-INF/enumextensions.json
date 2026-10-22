@@ -1,0 +1,14 @@
+
+{
+  "entries": [
+    {
+      "enum": "net/minecraft/client/gui/Gui\$HeartType",
+      "name": "ELEMENTALREALMS_GOLDEN",
+      "constructor": "(Lnet/minecraft/resources/ResourceLocation;Lnet/minecraft/resources/ResourceLocation;Lnet/minecraft/resources/ResourceLocation;Lnet/minecraft/resources/ResourceLocation;Lnet/minecraft/resources/ResourceLocation;Lnet/minecraft/resources/ResourceLocation;Lnet/minecraft/resources/ResourceLocation;Lnet/minecraft/resources/ResourceLocation;)V",
+      "parameters": {
+        "class": "net/matos/elementalrealms/util/HeartTextures",
+        "field": "HEART_TYPE_ENUM_PROXY"
+      }
+    }
+  ]
+}
