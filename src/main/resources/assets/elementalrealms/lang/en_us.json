@@ -1,0 +1,37 @@
+{
+  "itemGroup.elementalrealms.terravale_tab": "Terravale",
+
+  "item.elementalrealms.verindite_crystal": "Verindite Crystal",
+  "item.elementalrealms.mosshroom_cap": "Mosshroom Cap",
+  "item.elementalrealms.bucket_of_mosshroom": "Bucket of Mosshroom",
+  "item.elementalrealms.mosshroom_spawn_egg": "Mosshroom Spawn Egg",
+  "item.elementalrealms.mossback_toad_spawn_egg": "Mossback Toad Spawn Egg",
+  "item.elementalrealms.golden_essence": "Golden Essence",
+  "item.elementalrealms.ancient_stew": "Ancient Stew",
+  "item.elementalrealms.raw_ancient_chop": "Raw Ancient Chop",
+  "item.elementalrealms.cooked_ancient_chop": "Cooked Ancient Chop",
+  "item.elementalrealms.fungus_spores": "Fungus Spores",
+
+  "block.elementalrealms.raw_ancient_meat": "Raw Ancient Meat",
+  "block.elementalrealms.cooked_ancient_meat": "Cooked Ancient Meat",
+
+  "tooltip.elementalrealms.mosshroom_cap": "How could you do §4§lTHIS?§r",
+
+  "entity.elementalrealms.mosshroom": "Mosshroom",
+  "entity.elementalrealms.mossback_toad": "Mossback Toad",
+
+  "effect.elementalrealms.golden_bloom": "Golden Bloom",
+
+  "sounds.elementalrealms.mosshroom_ambient1": "Mosshroom roaming",
+  "sounds.elementalrealms.mosshroom_ambient2": "Mosshroom roaming",
+  "sounds.elementalrealms.mosshroom_ambient3": "Mosshroom roaming",
+  "sounds.elementalrealms.mosshroom_ambient4": "Mosshroom roaming",
+  "sounds.elementalrealms.mosshroom_ambient5": "Mosshroom roaming",
+  "sounds.elementalrealms.mosshroom_hurt1": "Mosshroom hurts",
+  "sounds.elementalrealms.mosshroom_hurt2": "Mosshroom hurts",
+  "sounds.elementalrealms.mosshroom_hurt3": "Mosshroom hurts",
+  "sounds.elementalrealms.mosshroom_hurt4": "Mosshroom hurts",
+  "sounds.elementalrealms.mosshroom_death1": "Mosshroom dies",
+  "sounds.elementalrealms.mosshroom_death2": "Mosshroom dies"
+
+}

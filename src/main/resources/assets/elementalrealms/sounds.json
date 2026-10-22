@@ -1,0 +1,152 @@
+{
+  "mosshroom_ambient1": {
+    "subtitle": "sounds.elementalrealms.mosshroom_ambient1",
+    "sounds": [
+      "elementalrealms:mosshroom_ambient1"
+    ]
+  },
+  "mosshroom_ambient2": {
+    "subtitle": "sounds.elementalrealms.mosshroom_ambient2",
+    "sounds": [
+      "elementalrealms:mosshroom_ambient2"
+    ]
+  },
+  "mosshroom_ambient3": {
+    "subtitle": "sounds.elementalrealms.mosshroom_ambient3",
+    "sounds": [
+      "elementalrealms:mosshroom_ambient3"
+    ]
+  },
+  "mosshroom_ambient4": {
+    "subtitle": "sounds.elementalrealms.mosshroom_ambient4",
+    "sounds": [
+      "elementalrealms:mosshroom_ambient4"
+    ]
+  },
+  "mosshroom_ambient5": {
+    "subtitle": "sounds.elementalrealms.mosshroom_ambient5",
+    "sounds": [
+      "elementalrealms:mosshroom_ambient5"
+    ]
+  },
+  "mosshroom_hurt1": {
+    "subtitle": "sounds.elementalrealms.mosshroom_hurt1",
+    "sounds": [
+      "elementalrealms:mosshroom_hurt1"
+    ]
+  },
+  "mosshroom_hurt2": {
+    "subtitle": "sounds.elementalrealms.mosshroom_hurt2",
+    "sounds": [
+      "elementalrealms:mosshroom_hurt2"
+    ]
+  },
+  "mosshroom_hurt3": {
+    "subtitle": "sounds.elementalrealms.mosshroom_hurt3",
+    "sounds": [
+      "elementalrealms:mosshroom_hurt3"
+    ]
+  },
+  "mosshroom_hurt4": {
+    "subtitle": "sounds.elementalrealms.mosshroom_hurt4",
+    "sounds": [
+      "elementalrealms:mosshroom_hurt4"
+    ]
+  },
+  "mosshroom_death1": {
+    "subtitle": "sounds.elementalrealms.mosshroom_death1",
+    "sounds": [
+      "elementalrealms:mosshroom_death1"
+    ]
+  },
+  "mosshroom_death2": {
+    "subtitle": "sounds.elementalrealms.mosshroom_death2",
+    "sounds": [
+      "elementalrealms:mosshroom_death2"
+    ]
+  },
+  "mossback_toad_ambient1": {
+    "subtitle": "sounds.elementalrealms.mossback_toad_ambient1",
+    "sounds": [
+      "elementalrealms:mossback_toad_ambient1"
+    ]
+  },
+  "mossback_toad_ambient2": {
+    "subtitle": "sounds.elementalrealms.mossback_toad_ambient2",
+    "sounds": [
+      "elementalrealms:mossback_toad_ambient2"
+    ]
+  },
+  "mossback_toad_ambient3": {
+    "subtitle": "sounds.elementalrealms.mossback_toad_ambient3",
+    "sounds": [
+      "elementalrealms:mossback_toad_ambient3"
+    ]
+  },
+  "mossback_toad_ambient4": {
+    "subtitle": "sounds.elementalrealms.mossback_toad_ambient4",
+    "sounds": [
+      "elementalrealms:mossback_toad_ambient4"
+    ]
+  },
+  "mossback_toad_ambient5": {
+    "subtitle": "sounds.elementalrealms.mossback_toad_ambient5",
+    "sounds": [
+      "elementalrealms:mossback_toad_ambient5"
+    ]
+  },
+  "mossback_toad_hurt1": {
+    "subtitle": "sounds.elementalrealms.mossback_toad_hurt1",
+    "sounds": [
+      "elementalrealms:mossback_toad_hurt1"
+    ]
+  },
+  "mossback_toad_hurt2": {
+    "subtitle": "sounds.elementalrealms.mossback_toad_hurt2",
+    "sounds": [
+      "elementalrealms:mossback_toad_hurt2"
+    ]
+  },
+  "mossback_toad_hurt3": {
+    "subtitle": "sounds.elementalrealms.mossback_toad_hurt3",
+    "sounds": [
+      "elementalrealms:mossback_toad_hurt3"
+    ]
+  },
+  "mossback_toad_hurt4": {
+    "subtitle": "sounds.elementalrealms.mossback_toad_hurt4",
+    "sounds": [
+      "elementalrealms:mossback_toad_hurt4"
+    ]
+  },
+  "mossback_toad_death1": {
+    "subtitle": "sounds.elementalrealms.mossback_toad_death1",
+    "sounds": [
+      "elementalrealms:mossback_toad_death1"
+    ]
+  },
+  "mossback_toad_death2": {
+    "subtitle": "sounds.elementalrealms.mossback_toad_death2",
+    "sounds": [
+      "elementalrealms:mossback_toad_death1"
+    ]
+  },
+  "mossback_toad_sleep1": {
+    "subtitle": "sounds.elementalrealms.mossback_toad_sleep1",
+    "sounds": [
+      "elementalrealms:mossback_toad_sleep1"
+    ]
+  },
+  "mossback_toad_sleep2": {
+    "subtitle": "sounds.elementalrealms.mossback_toad_sleep2",
+    "sounds": [
+      "elementalrealms:mossback_toad_sleep2"
+    ]
+  },
+  "mossback_toad_sleep3": {
+    "subtitle": "sounds.elementalrealms.mossback_toad_sleep3",
+    "sounds": [
+      "elementalrealms:mossback_toad_sleep3"
+    ]
+  }
+}
