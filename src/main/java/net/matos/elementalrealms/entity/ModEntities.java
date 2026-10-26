@@ -3,6 +3,7 @@ package net.matos.elementalrealms.entity;
 import net.matos.elementalrealms.ElementalRealms;
 import net.matos.elementalrealms.entity.custom.MossbackToadEntity;
 import net.matos.elementalrealms.entity.custom.MosshroomEntity;
+import net.matos.elementalrealms.entity.custom.RockspineEntity;
 import net.matos.elementalrealms.entity.custom.TectoraxEntity;
 import net.matos.elementalrealms.entity.projectile.FungusSporesProjectile;
 import net.minecraft.core.registries.BuiltInRegistries;
@@ -31,6 +32,15 @@ public class ModEntities {
             ENTITY_TYPES.register("tectorax", () -> EntityType.Builder.of(TectoraxEntity::new, MobCategory.CREATURE)
                     .sized(2.8f, 2.1f).build("tectorax"));
 
+    public static final Supplier<EntityType<RockspineEntity>> ROCKSPINE =
+            ENTITY_TYPES.register("rockspine", () -> EntityType.Builder.of(RockspineEntity::new, MobCategory.MONSTER)
+                    .sized(1f, 1f).build("rockspine"));
+
+    
+    
+    
+    
+    
     public static final DeferredHolder<EntityType<?>, EntityType<FungusSporesProjectile>> FUNGUS_SPORES =
             ENTITY_TYPES.register("fungus_spores",
                     () -> EntityType.Builder.<FungusSporesProjectile>of(

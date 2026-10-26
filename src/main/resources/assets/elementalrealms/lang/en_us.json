@@ -11,6 +11,8 @@
   "item.elementalrealms.raw_ancient_chop": "Raw Ancient Chop",
   "item.elementalrealms.cooked_ancient_chop": "Cooked Ancient Chop",
   "item.elementalrealms.fungus_spores": "Fungus Spores",
+  "item.elementalrealms.tectorax_spawn_egg": "Tectorax Spawn Egg",
+  "item.elementalrealms.rockspine_spawn_egg": "Rockspine Spawn Egg",
 
   "block.elementalrealms.raw_ancient_meat": "Raw Ancient Meat",
   "block.elementalrealms.cooked_ancient_meat": "Cooked Ancient Meat",
@@ -19,6 +21,8 @@
 
   "entity.elementalrealms.mosshroom": "Mosshroom",
   "entity.elementalrealms.mossback_toad": "Mossback Toad",
+  "entity.elementalrealms.tectorax": "Tectorax",
+  "entity.elementalrealms.rockspine": "Rockspine",
 
   "effect.elementalrealms.golden_bloom": "Golden Bloom",
 
@@ -32,6 +36,21 @@
   "sounds.elementalrealms.mosshroom_hurt3": "Mosshroom hurts",
   "sounds.elementalrealms.mosshroom_hurt4": "Mosshroom hurts",
   "sounds.elementalrealms.mosshroom_death1": "Mosshroom dies",
-  "sounds.elementalrealms.mosshroom_death2": "Mosshroom dies"
+  "sounds.elementalrealms.mosshroom_death2": "Mosshroom dies",
+
+  "sounds.elementalrealms.mossback_toad_ambient1": "Mossback Toad creaking",
+  "sounds.elementalrealms.mossback_toad_ambient2": "Mossback Toad creaking",
+  "sounds.elementalrealms.mossback_toad_ambient3": "Mossback Toad creaking",
+  "sounds.elementalrealms.mossback_toad_ambient4": "Mossback Toad creaking",
+  "sounds.elementalrealms.mossback_toad_ambient5": "Mossback Toad creaking",
+  "sounds.elementalrealms.mossback_toad_hurt1": "Mossback Toad hurts",
+  "sounds.elementalrealms.mossback_toad_hurt2": "Mossback Toad hurts",
+  "sounds.elementalrealms.mossback_toad_hurt3": "Mossback Toad hurts",
+  "sounds.elementalrealms.mossback_toad_hurt4": "Mossback Toad hurts",
+  "sounds.elementalrealms.mossback_toad_death1": "Mossback Toad dies",
+  "sounds.elementalrealms.mossback_toad_death2": "Mossback Toad dies",
+  "sounds.elementalrealms.mossback_toad_sleep1": "Mossback Toad sleeping",
+  "sounds.elementalrealms.mossback_toad_sleep2": "Mossback Toad sleeping",
+  "sounds.elementalrealms.mossback_toad_sleep3": "Mossback Toad sleeping"
 
 }

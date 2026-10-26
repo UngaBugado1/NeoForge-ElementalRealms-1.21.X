@@ -5,7 +5,10 @@ import net.matos.elementalrealms.effect.ModEffects;
 import net.matos.elementalrealms.entity.ModEntities;
 import net.matos.elementalrealms.entity.client.MossbackToadRenderer;
 import net.matos.elementalrealms.entity.client.MosshroomRenderer;
+import net.matos.elementalrealms.entity.client.RockspineRenderer;
+import net.matos.elementalrealms.entity.client.TectoraxRenderer;
 import net.matos.elementalrealms.event.GoldenBloomHeartHandler;
+import net.matos.elementalrealms.event.RockspineSoundHandler;
 import net.matos.elementalrealms.item.ModCreativeModeTabs;
 import net.matos.elementalrealms.item.ModItems;
 import net.matos.elementalrealms.particle.ModParticles;
@@ -54,6 +57,7 @@ public class ElementalRealms {
         ModParticles.register(modEventBus);
 
         NeoForge.EVENT_BUS.register(GoldenBloomHeartHandler.class);
+        NeoForge.EVENT_BUS.register(RockspineSoundHandler.class);
 
         // Register ourselves for server and other game events we are interested in.
         // Note that this is necessary if and only if we want *this* class (ExampleMod) to respond directly to events.
@@ -97,6 +101,8 @@ public class ElementalRealms {
         public static void onClientSetup(FMLClientSetupEvent event) {
             EntityRenderers.register(ModEntities.MOSSHROOM.get(), MosshroomRenderer::new);
             EntityRenderers.register(ModEntities.MOSSBACK_TOAD.get(), MossbackToadRenderer::new);
+            EntityRenderers.register(ModEntities.TECTORAX.get(), TectoraxRenderer::new);
+            EntityRenderers.register(ModEntities.ROCKSPINE.get(), RockspineRenderer::new);
         }
     }
 }

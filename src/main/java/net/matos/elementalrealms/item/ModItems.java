@@ -2,10 +2,7 @@ package net.matos.elementalrealms.item;
 
 import net.matos.elementalrealms.ElementalRealms;
 import net.matos.elementalrealms.entity.ModEntities;
-import net.matos.elementalrealms.item.custom.AncientStewItem;
-import net.matos.elementalrealms.item.custom.FungusSporesItem;
-import net.matos.elementalrealms.item.custom.GoldenEssenceItem;
-import net.matos.elementalrealms.item.custom.MosshroomBucketItem;
+import net.matos.elementalrealms.item.custom.*;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.ItemStack;
@@ -63,6 +60,19 @@ public class ModItems {
     public static final DeferredItem<Item> FUNGUS_SPORES_PROJECTILE =
             ITEMS.register("fungus_spores_projectile",
                     () -> new Item(new Item.Properties()));
+
+    public static final DeferredItem<Item> TECTORAX_SPAWN_EGG = ITEMS.register("tectorax_spawn_egg",
+            () -> new DeferredSpawnEggItem(ModEntities.TECTORAX, 0x7B5356, 0xB1A095,
+                    new Item.Properties()));
+
+    public static final DeferredItem<Item> ROCKSPINE_SPAWN_EGG = ITEMS.register("rockspine_spawn_egg",
+            () -> new DeferredSpawnEggItem(ModEntities.ROCKSPINE, 0x786750, 0x6B322F,
+                    new Item.Properties()));
+
+    public static final DeferredItem<Item> PRIMAL_CLUB = ITEMS.register(
+            "primal_club", PrimalClubItem::new);
+
+
 
 
     public static void register(IEventBus eventBus) {

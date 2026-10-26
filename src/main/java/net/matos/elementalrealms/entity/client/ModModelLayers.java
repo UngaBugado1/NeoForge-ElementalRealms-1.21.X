@@ -14,5 +14,7 @@ public class ModModelLayers {
     public static final ModelLayerLocation TECTORAX = new ModelLayerLocation(
             ResourceLocation.fromNamespaceAndPath(ElementalRealms.MOD_ID, "tectorax"),"main");
 
+    public static final ModelLayerLocation ROCKSPINE = new ModelLayerLocation(
+            ResourceLocation.fromNamespaceAndPath(ElementalRealms.MOD_ID, "rockspine"),"main");
 
 }

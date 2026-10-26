@@ -33,6 +33,8 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModBlocks.COOKED_ANCIENT_MEAT);
                         pOutput.accept(ModItems.COOKED_ANCIENT_CHOP.get());
                         pOutput.accept(ModItems.FUNGUS_SPORES.get());
+                        pOutput.accept(ModItems.TECTORAX_SPAWN_EGG.get());
+                        pOutput.accept(ModItems.ROCKSPINE_SPAWN_EGG.get());
                     })
                     .build());
 
